@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.6.3">
   <diagram name="Page-1" id="8BpvkYZXNPB9TOHtAcOP">
-    <mxGraphModel dx="1455" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,16 +174,16 @@
         <mxCell id="Sv1wGODSUvWhlYJJlYcf-17" parent="JkxpkZSeGJJj0kfj37pB-74" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" value="./analitica.net/ (PRE &amp;amp; PRO envs)" vertex="1">
           <mxGeometry height="330" width="310" x="50" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1wGODSUvWhlYJJlYcf-18" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pre/analiticaWorker/AnaliticaWorker.dll" vertex="1">
+        <mxCell id="Sv1wGODSUvWhlYJJlYcf-18" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pre/analitica/Analitica.dll" vertex="1">
           <mxGeometry height="40" width="220" x="60" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1wGODSUvWhlYJJlYcf-20" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pro/analiticaWorker/AnaliticaWorker.dll" vertex="1">
+        <mxCell id="Sv1wGODSUvWhlYJJlYcf-20" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pro/analitica/Analitica.dll" vertex="1">
           <mxGeometry height="40" width="220" x="60" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1wGODSUvWhlYJJlYcf-10" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pre/analitica/Analitica.dll" vertex="1">
+        <mxCell id="Sv1wGODSUvWhlYJJlYcf-10" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pre/analiticaWorker/AnaliticaWorker.dll" vertex="1">
           <mxGeometry height="40" width="220" x="60" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="Sv1wGODSUvWhlYJJlYcf-8" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pro/analitica/Analitica.dll" vertex="1">
+        <mxCell id="Sv1wGODSUvWhlYJJlYcf-8" parent="Sv1wGODSUvWhlYJJlYcf-17" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="pro/analiticaWorker/AnaliticaWorker.dll" vertex="1">
           <mxGeometry height="40" width="220" x="60" y="260" as="geometry" />
         </mxCell>
         <mxCell id="JkxpkZSeGJJj0kfj37pB-79" edge="1" parent="1" source="JkxpkZSeGJJj0kfj37pB-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JkxpkZSeGJJj0kfj37pB-75">
